@@ -77,3 +77,8 @@ Geocoder: To retrieve Location Data.
 Beautiful Soup and Requests: To scrap and library to handle http requests.
 
 Matplotlib: Python Plotting Module.
+
+# Clustering Approach:
+To compare the similarities of two cities, we decided to explore neighborhoods, segment them, and group them into clusters to find similar neighborhoods in a big city like New York and Toronto. To be able to do that, we need to cluster data which is a form of unsupervised machine learning: k-means clustering algorithm.
+
+
